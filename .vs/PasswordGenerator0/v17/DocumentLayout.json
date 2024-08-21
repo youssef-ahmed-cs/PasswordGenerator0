@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youssef Ahmed\\source\\repos\\PasswordGenerator0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2F695A-77D5-4FC5-802F-82E6AAC3EFA1}|PasswordGenerator0\\PasswordGenerator0.csproj|c:\\users\\youssef ahmed\\source\\repos\\passwordgenerator0\\passwordgenerator0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2F695A-77D5-4FC5-802F-82E6AAC3EFA1}|PasswordGenerator0\\PasswordGenerator0.csproj|solutionrelative:passwordgenerator0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youssef Ahmed\\source\\repos\\PasswordGenerator0\\PasswordGenerator0\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordGenerator0\\Program.cs",
+              "ToolTip": "C:\\Users\\youssef Ahmed\\source\\repos\\PasswordGenerator0\\PasswordGenerator0\\Program.cs",
+              "RelativeToolTip": "PasswordGenerator0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:37:08.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
